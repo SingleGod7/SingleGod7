@@ -5,5 +5,11 @@ Learning computer science now.
 Interested in Computer Graphics and Programming language.
 
 Dream to be a good engineer and computer scientist.
+
+Courses in prograss:
+- CS61B
+- CS110L
+- Digital Design and Computer Archtechiture
+- Drafting Interpreter
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingleGod7&layout=compact"/>
