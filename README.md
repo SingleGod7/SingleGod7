@@ -12,4 +12,4 @@ Courses in prograss:
 - CS61B
 - CS110L
 - Digital Design and Computer Archtechiture
-- Drafting Interpreter
+- Crafting Interpreter
