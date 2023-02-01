@@ -9,7 +9,9 @@ Now I am learning plenty of courses in computer science. Hope that in one year I
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SingleGod7&layout=compact"/>
 
 Courses in prograss:
-- CS61B
-- CS110L
+- CS61C
+- CS184
 - Digital Design and Computer Archtechiture
-- Crafting Interpreter
+- Learn OpenGL
+- An Infinite Descent into Pure Mathematics
+- Principles of Economics
