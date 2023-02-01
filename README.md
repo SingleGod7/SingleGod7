@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SingleGod7&bg_color=DEG,66CCFF,00CCFF,33CCFF,3399FF&show_icons=true&title_color=333333"/>
 
-Interested in *Computer Graphics* and *Programming language*. Specially in non-photorealistic rendering and compilers.
+Interested in *Computer Graphics*, *Programming language* and computer architechture. Specially in non-photorealistic rendering, compilers and gpus.
 
 Dream to be a good engineer and computer scientist.
 
